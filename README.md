@@ -94,8 +94,5 @@ This case study focuses on optimizing room allocation strategy for **LUX\*** Res
 
 ---
 
-## 📬 Contact
-
-For more information or collaboration, reach out to:
-
-- 📧 Pavani Narla – [GitHub](https://github.com/npavani10)
+For questions or contributions:
+- 🧑‍💻 Open an [Issue](https://github.com/npavani10/A-Data-Driven-Approach-to-Predicting-Bank-Customer-Churn/issues) for feedback or suggestions
